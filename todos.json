@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Buy groceries",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "name": "Clean the house",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "name": "Do laundry",
+    "completed": true
+  },
+  {
+    "id": 4,
+    "name": "Pay bills",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "name": "Go for a run",
+    "completed": true
+  },
+  {
+    "id": 6,
+    "name": "Walk the dog",
+    "completed": false
+  },
+  {
+    "id": 7,
+    "name": "Call mom",
+    "completed": false
+  },
+  {
+    "id": 8,
+    "name": "Finish work project",
+    "completed": true
+  },
+  {
+    "id": 9,
+    "name": "Read a book",
+    "completed": false
+  },
+  {
+    "id": 10,
+    "name": "Go to the gym",
+    "completed": true
+  }
+]
